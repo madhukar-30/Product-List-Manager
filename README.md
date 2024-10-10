@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
-- Live Site URL: [ live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://madhukar-30.github.io/Product-List-Manager/)
+- Live Site URL: [ live site URL here](https://github.com/madhukar-30/Product-List-Manager.git)
 
 ## My process
 
@@ -54,7 +54,7 @@ Users should be able to:
 I recently learned how to dynamically populate a user interface using data from a JSON file.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profilemadhukar-30)
+- Frontend Mentor - [@madhukar-30](https://www.frontendmentor.io/profile/madhukar-30)
 
 
 
